@@ -37,13 +37,15 @@ Handles sales tracking, invoice printing, and receipt generation.
 
 ---
 
-### My GitHub Stats
 
-[![GitHub Stats](https://YOUR_VERCEL_APP_URL/api?username=mustafa-salah-1&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+### 📈 My GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafa-salah-1&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Most Used Languages
 
-[![Top Langs](https://YOUR_VERCEL_APP_URL/api/top-langs/?username=mustafa-salah-1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-salah-1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## 📫 Connect with Me
