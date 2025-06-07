@@ -30,7 +30,7 @@ _Now a dedicated student in Information System Engineering, passionate about bui
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mustafa-salah-8299b332a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-salah-8299b332a)
 - 🌐 [Telegram](https://t.me/m0_s1a) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 - 📧 mustafa.salah.2131@gmail.com ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
