@@ -1,42 +1,38 @@
-<!--
-  Header image: 1280x640
-  You can upload an image to your repo and replace the link below
--->
-<!-- <p align="center">
-  <img src="https://via.placeholder.com/1280x640.png?text=Welcome+to+My+GitHub+Profile" alt="Profile Banner" />
-</p> -->
+<p align="center">
+  <img src="https://github.com/mustafa-salah-1/mustafa-salah-1/blob/main/assets/profile_banner.png?raw=true" alt="Profile Banner" />
+</p>
 
 # Hi, I'm Mustafa Salah 👋
+### Full-stack Web Developer | Information System Engineering Student
 
-
-_Graduated 2nd in my department at Shaqlawa Technical College, Information Technology (2022–2023)._  
-_Now a student in Information System Engineering, passionate about building web applications with modern tools and clean code._
-
+_Graduated 2nd in my department at Shaqlawa Technical College, Information Technology (2022–2023)._
+_Now a dedicated student in Information System Engineering, passionate about building robust web applications with modern tools and clean, efficient code._
 
 ---
 
 ## 🛠 Tech Stack
-- ⚙️ Backend: `Laravel`, `Livewire`, `PHP`
-- 💅 Frontend: `Tailwind CSS`, `Bootstrap`, `JavaScript`
-- 🗄️ Database: `MySQL`,`Sql Server`,`Sqlite`
-- 🖥️ Other: `ajax`, `jQuery`, `Java (Swing)`
-- ☁️ Hosting: `Hostinger`
+
+- ⚙️ **Backend:** `Laravel` ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white), `Livewire` ![Livewire](https://img.shields.io/badge/Livewire-4B5563?style=for-the-badge&logo=livewire&logoColor=white), `PHP` ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+- 💅 **Frontend:** `Tailwind CSS` ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white), `Bootstrap` ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white), `JavaScript` ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- 🗄️ **Database:** `MySQL` ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white), `SQL Server` ![SQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white), `SQLite` ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+- 🖥️ **Other:** `AJAX` ![Ajax](https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=ajax&logoColor=white), `jQuery` ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for_the_badge&logo=jquery&logoColor=white), `Java (Swing)` ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+- ☁️ **Hosting:** `Hostinger` ![Hostinger](https://img.shields.io/badge/Hostinger-4074F4?style=for-the-badge&logo=hostinger&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects
-### 🔹 Sales Management System (Hama Store)
-> Built with Laravel, Livewire & Tailwind CSS  
-Handles sales tracking, invoice printing, and receipt generation.
 
-### 🔹 Typing Test
-> A fun and interactive way to test your typing speed, built with Java.
+### 🔹 [Sales Management System (Hama Store)](https://github.com/mustafa-salah-1/Hama-Store-Repo-Link-Here)
+> Built with Laravel, Livewire & Tailwind CSS
+> This system efficiently handles sales tracking, provides instant invoice printing, and generates detailed receipts for seamless business operations.
 
-### 🔹 Natural Healing Center Website
-> A frontend-only website for a skin cosmetics center using HTML, Tailwind, and JS.
+### 🔹 [Typing Test](https://github.com/mustafa-salah-1/Typing-Test-Repo-Link-Here)
+> A fun and interactive application designed to test and improve typing speed, built with Java (Swing). It features accurate WPM calculation and user-friendly interface.
+
+### 🔹 [Natural Healing Center Website](https://github.com/mustafa-salah-1/Natural-Healing-Website-Repo-Link-Here OR https://your-live-demo-link.com)
+> A frontend-only website for a skin cosmetics center, crafted using HTML, Tailwind CSS, and JavaScript. Showcases modern UI/UX principles and responsive design.
 
 ---
-
 
 ### 📈 My GitHub Stats
 
@@ -50,11 +46,10 @@ Handles sales tracking, invoice printing, and receipt generation.
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mustafa-salah-8299b332a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) _(add your link here)_
-- 🌐 [Telegram](https://t.me/m0_s1a) _(optional)_
-- 📧 mustafa.salah.2131@gmail.com _(replace with your email if you like)_
+- 💼 [LinkedIn](https://www.linkedin.com/in/mustafa-salah-8299b332a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+- 🌐 [Telegram](https://t.me/m0_s1a) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+- 📧 mustafa.salah.2131@gmail.com ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ---
 
-_Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate._
-
+_Thanks for visiting my profile! I'm always open to learning new things and collaborating on exciting projects. Feel free to explore my repositories or reach out if you have any questions or opportunities._
