@@ -18,20 +18,6 @@ _Now a dedicated student in Information System Engineering, passionate about bui
 
 ---
 
-## 📂 Featured Projects
-
-### 🔹 [Sales Management System (Hama Store)](https://github.com/mustafa-salah-1/Hama-Store-Repo-Link-Here)
-> Built with Laravel, Livewire & Tailwind CSS
-> This system efficiently handles sales tracking, provides instant invoice printing, and generates detailed receipts for seamless business operations.
-
-### 🔹 [Typing Test](https://github.com/mustafa-salah-1/Typing-Test-Repo-Link-Here)
-> A fun and interactive application designed to test and improve typing speed, built with Java (Swing). It features accurate WPM calculation and user-friendly interface.
-
-### 🔹 [Natural Healing Center Website](https://github.com/mustafa-salah-1/Natural-Healing-Website-Repo-Link-Here OR https://your-live-demo-link.com)
-> A frontend-only website for a skin cosmetics center, crafted using HTML, Tailwind CSS, and JavaScript. Showcases modern UI/UX principles and responsive design.
-
----
-
 ### 📈 My GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafa-salah-1&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
