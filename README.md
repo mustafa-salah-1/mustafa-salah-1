@@ -30,6 +30,8 @@ _Now a dedicated student in Information System Engineering, passionate about bui
 
 **Hosting**  
 ![Hostinger](https://img.shields.io/badge/Hostinger-4074F4?style=for-the-badge&logo=hostinger&logoColor=white)
+![Name.com](https://img.shields.io/badge/Name.com-005AE0?style=for-the-badge&logo=Namecheap&logoColor=white)
+
 
 ---
 
@@ -45,7 +47,7 @@ _Now a dedicated student in Information System Engineering, passionate about bui
 
 ## 📫 Connect with Me
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/mustafa-salah-8299b332a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
