@@ -45,13 +45,20 @@ _Now a dedicated student in Information System Engineering, passionate about bui
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-salah-8299b332a/)  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/m0_s1a)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafa.salah.2131@gmail.com)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mustafa.0eng)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/mustafa-salah-8299b332a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/m0_s1a">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:mustafa.salah.2131@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/mustafa.0eng">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
 ---
-
-![Visitor Count](https://komarev.com/ghpvc/?username=mustafa-salah-1&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
 _Thanks for visiting my profile! I'm always open to learning new things and collaborating on exciting projects. Feel free to explore my repositories or reach out if you have any questions or opportunities._
