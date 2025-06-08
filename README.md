@@ -1,4 +1,3 @@
-
 # Hi, I'm Mustafa Salah 👋
 ### Full-stack Web Developer | Information System Engineering Student
 
@@ -14,7 +13,6 @@ _Now a dedicated student in Information System Engineering, passionate about bui
 - **Database:** ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![SQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 - **Other:** ![Ajax](https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=ajax&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for_the_badge&logo=jquery&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 - **Hosting:** ![Hostinger](https://img.shields.io/badge/Hostinger-4074F4?style=for-the-badge&logo=hostinger&logoColor=white)
-
 
 ---
 
@@ -33,6 +31,7 @@ _Now a dedicated student in Information System Engineering, passionate about bui
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-salah-8299b332a)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/m0_s1a)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafa.salah.2131@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mustafa.0eng)
 
 ---
 
