@@ -8,28 +8,28 @@ _Now a dedicated student in Information System Engineering, passionate about bui
 
 ## 🛠 Tech Stack
 
-- **Backend:**  
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
-  ![Livewire](https://img.shields.io/badge/Livewire-4B5563?style=for-the-badge&logo=livewire&logoColor=white)  
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+**Backend**  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4B5563?style=for-the-badge&logo=livewire&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-- **Frontend:**  
-  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Frontend**  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- **Database:**  
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-  ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
-  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+**Database**  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-- **Other:**  
-  ![Ajax](https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=ajax&logoColor=white)  
-  ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)  
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+**Other**  
+![Ajax](https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=ajax&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-- **Hosting:**  
-  ![Hostinger](https://img.shields.io/badge/Hostinger-4074F4?style=for-the-badge&logo=hostinger&logoColor=white)
+**Hosting**  
+![Hostinger](https://img.shields.io/badge/Hostinger-4074F4?style=for-the-badge&logo=hostinger&logoColor=white)
 
 ---
 
@@ -37,9 +37,9 @@ _Now a dedicated student in Information System Engineering, passionate about bui
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafa-salah-1&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Most Used Languages
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-salah-1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=mustafa-salah-1&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
 ---
 
