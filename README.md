@@ -1,8 +1,7 @@
 # Hi, I'm Mustafa Salah 👋
 ### Full-stack Web Developer | Information System Engineering Student
 
-_Graduated 2nd in my department at Shaqlawa Technical College, Information Technology (2022–2023)._  
-_Now a dedicated student in Information System Engineering, passionate about building robust web applications with modern tools and clean, efficient code._
+_I graduated 2nd in my department at Shaqlawa Technical College, majoring in Information Technology (2022–2023). I'm currently studying Information System Engineering and I'm passionate about building robust web applications using modern tools and writing clean, efficient code._
 
 ---
 
