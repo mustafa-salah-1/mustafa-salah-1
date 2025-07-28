@@ -30,16 +30,7 @@ _I graduated 2nd in my department at Shaqlawa Technical College, majoring in Inf
 **Hosting**  
 ![Hostinger](https://img.shields.io/badge/Hostinger-4074F4?style=for-the-badge&logo=hostinger&logoColor=white)
 ![Name.com](https://img.shields.io/badge/Name.com-005AE0?style=for-the-badge&logo=Namecheap&logoColor=white)
-
-
----
-
-## 📈 My GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafa-salah-1&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-salah-1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+ 
 ![Visitor Count](https://komarev.com/ghpvc/?username=mustafa-salah-1&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
 ---
