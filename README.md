@@ -12,8 +12,7 @@ _I graduated 2nd in my department at Shaqlawa Technical College, majoring in Inf
 ![Livewire](https://img.shields.io/badge/Livewire-4B5563?style=for-the-badge&logo=livewire&logoColor=white) 
 
 **Frontend**   
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)   
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)    
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 
