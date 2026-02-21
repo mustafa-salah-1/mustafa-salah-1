@@ -44,6 +44,3 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
----
-
-_Thanks for visiting my profile! I'm always open to learning new things and collaborating on exciting projects. Feel free to explore my repositories or reach out if you have any questions or opportunities._
