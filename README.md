@@ -1,4 +1,4 @@
-# Hi, I'm Mustafa Salah 👋
+# Hi, I'm Mustafa 👋
 ### Full-stack Web Developer | Information System Engineering Student
  
 ---
