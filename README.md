@@ -5,24 +5,23 @@
 
 ## 🛠 Tech Stack
 
-**Backend**  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+**Backend** ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-4B5563?style=for-the-badge&logo=livewire&logoColor=white) 
  
-**Frontend**  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Frontend** ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-**Database**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+**Database** ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Hosting**  
-![Hostinger](https://img.shields.io/badge/Hostinger-4074F4?style=for-the-badge&logo=hostinger&logoColor=white)
+**Hosting** ![Hostinger](https://img.shields.io/badge/Hostinger-4074F4?style=for-the-badge&logo=hostinger&logoColor=white)
 ![Name.com](https://img.shields.io/badge/Name.com-005AE0?style=for-the-badge&logo=Namecheap&logoColor=white)
+![VPS Hosting](https://img.shields.io/badge/VPS_Hosting-2C3E50?style=for-the-badge&logo=linux&logoColor=white)
+![Self-Hosting](https://img.shields.io/badge/Self--Hosting-333333?style=for-the-badge&logo=docker&logoColor=white)
  
 ![Visitor Count](https://komarev.com/ghpvc/?username=mustafa-salah-1&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
