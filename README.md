@@ -10,16 +10,6 @@
 
 ---
 
-## 👨‍💻 A Little About Me
-
-* 🎓 I'm currently studying **Information System Engineering**.
-* 💡 I love bridging the gap between robust backend architecture and sleek frontend interfaces.
-* 🌱 Always learning and exploring new technologies in the web development ecosystem.
-* 💬 Ask me about **Laravel, React, and building full-stack apps!**
-* 🌍 Check out my portfolio: **[mustafa-salah.com](https://mustafa-salah.com)**
-
-<br>
-
 ## 🛠️ My Tech Stack
 
 | Focus Area | Technologies |
@@ -29,16 +19,7 @@
 | **🗄️ Database** | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) |
 | **☁️ Hosting & Ops** | ![Hostinger](https://img.shields.io/badge/Hostinger-4074F4?style=for-the-badge&logo=hostinger&logoColor=white) ![VPS Hosting](https://img.shields.io/badge/VPS_Hosting-2C3E50?style=for-the-badge&logo=linux&logoColor=white) ![Self-Hosting](https://img.shields.io/badge/Self--Hosting-333333?style=for-the-badge&logo=docker&logoColor=white) ![Name.com](https://img.shields.io/badge/Name.com-005AE0?style=for-the-badge&logo=Namecheap&logoColor=white) |
 
-<br>
-
-## 📈 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafa-salah-1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Mustafa's GitHub Stats" />
-</div>
-
 ---
-
 ## 📫 Let's Connect!
 
 <div align="center">
@@ -53,4 +34,14 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://t.me/m0_s1a">
-    <img src="
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://www.facebook.com/mustafa.0eng">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  
+  <br><br>
+  
+  ![Visitor Count](https://komarev.com/ghpvc/?username=mustafa-salah-1&label=Profile%20views&color=0e75b6&style=for-the-badge)
+
+</div>
