@@ -24,8 +24,8 @@
 
 <div align="center">
   
-  <a href="https://mustafa-salah.com">
-    <img src="https://img.shields.io/badge/Portfolio-mustafa--salah.com-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  <a href="https://mustafas.dev">
+    <img src="https://img.shields.io/badge/Portfolio-mustafas.dev-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/mustafa-salah-8299b332a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
